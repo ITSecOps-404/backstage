@@ -52,9 +52,9 @@
     "@asyncapi/react-component": "1.3.1",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/core-compat-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
@@ -69,7 +69,7 @@
     "graphql-config": "^5.0.2",
     "graphql-ws": "^5.4.1",
     "isomorphic-form-data": "^2.0.0",
-    "swagger-ui-react": "^5.0.0"
+    "swagger-ui-react": "^5.17.3"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
